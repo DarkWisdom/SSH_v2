@@ -1,0 +1,14 @@
+C:\Users\eskrebnev\source\repos\SSH\SSH\bin\Debug\SSH.exe.config
+C:\Users\eskrebnev\source\repos\SSH\SSH\bin\Debug\SSH.exe
+C:\Users\eskrebnev\source\repos\SSH\SSH\bin\Debug\SSH.pdb
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.csprojResolveAssemblyReference.cache
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.Properties.Resources.resources
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.csproj.GenerateResource.cache
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.csproj.CoreCompileInputs.cache
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.exe
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.pdb
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.MainForm.resources
+C:\Users\eskrebnev\source\repos\SSH\SSH\bin\Debug\Renci.SshNet.dll
+C:\Users\eskrebnev\source\repos\SSH\SSH\bin\Debug\Renci.SshNet.xml
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.csproj.CopyComplete
+C:\Users\eskrebnev\source\repos\SSH\SSH\obj\Debug\SSH.Form1.resources
